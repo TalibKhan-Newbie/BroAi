@@ -1,0 +1,7 @@
+{
+  "name": "BroAI",
+  "displayName": "BroAI",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ad_id"
+  }
+}

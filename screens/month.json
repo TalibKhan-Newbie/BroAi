@@ -1,0 +1,150 @@
+{
+  "full_calendar_of_days_and_observances": [
+    {
+      "month": "January",
+      "days": [
+        {"date": "1", "name_hindi": "नव वर्ष दिवस / वैश्विक परिवार दिवस", "name_english": "New Year's Day / Global Family Day", "type": "International/National"},
+        {"date": "4", "name_hindi": "विश्व ब्रेल दिवस", "name_english": "World Braille Day", "type": "International"},
+        {"date": "9", "name_hindi": "प्रवासी भारतीय दिवस (एनआरआई दिवस)", "name_english": "Pravasi Bharatiya Diwas (NRI Day)", "type": "National (India)"},
+        {"date": "10", "name_hindi": "विश्व हिंदी दिवस", "name_english": "World Hindi Day", "type": "International"},
+        {"date": "12", "name_hindi": "राष्ट्रीय युवा दिवस (विवेकानंद जयंती)", "name_english": "National Youth Day (Swami Vivekananda's Birthday)", "type": "National (India)"},
+        {"date": "14", "name_hindi": "मकर संक्रांति / पोंगल", "name_english": "Makar Sankranti / Pongal", "type": "National (India) Festival"},
+        {"date": "24", "name_hindi": "राष्ट्रीय बालिका दिवस", "name_english": "National Girl Child Day", "type": "National (India)"},
+        {"date": "26", "name_hindi": "गणतंत्र दिवस / अंतर्राष्ट्रीय सीमा शुल्क दिवस", "name_english": "Republic Day / International Customs Day", "type": "National/International"},
+        {"date": "30", "name_hindi": "शहीद दिवस", "name_english": "Martyr's Day", "type": "National (India)"}
+      ]
+    },
+    {
+      "month": "February",
+      "days": [
+        {"date": "2", "name_hindi": "विश्व आर्द्रभूमि दिवस", "name_english": "World Wetlands Day", "type": "International"},
+        {"date": "4", "name_hindi": "विश्व कैंसर दिवस", "name_english": "World Cancer Day", "type": "International"},
+        {"date": "7", "day_of_week": "Friday", "event_hindi": "रोज़ डे (Rose Day)", "event_english": "Rose Day"},
+        {"date": "8", "day_of_week": "Saturday", "event_hindi": "प्रपोज़ डे (Propose Day)", "event_english": "Propose Day"},
+        {"date": "9", "day_of_week": "Sunday", "event_hindi": "चॉकलेट डे (Chocolate Day)", "event_english": "Chocolate Day"},
+        {"date": "10", "day_of_week": "Monday", "event_hindi": "टेडी डे (Teddy Day)", "event_english": "Teddy Day"},
+        {"date": "11", "day_of_week": "Tuesday", "event_hindi": "प्रॉमिस डे (Promise Day)", "event_english": "Promise Day"},
+        {"date": "12", "day_of_week": "Wednesday", "event_hindi": "हग डे (Hug Day)", "event_english": "Hug Day"},
+        {"date": "13", "day_of_week": "Thursday", "event_hindi": "किस डे (Kiss Day)", "event_english": "Kiss Day"},
+        {"date": "14", "day_of_week": "Friday", "event_hindi": "वैलेंटाइन डे (Valentine's Day)", "event_english": "Valentine's Day"},
+        {"date": "20", "name_hindi": "विश्व सामाजिक न्याय दिवस", "name_english": "World Day of Social Justice", "type": "International"},
+        {"date": "21", "name_hindi": "अंतर्राष्ट्रीय मातृभाषा दिवस", "name_english": "International Mother Language Day", "type": "International"},
+        {"date": "28", "name_hindi": "राष्ट्रीय विज्ञान दिवस", "name_english": "National Science Day", "type": "National (India)"}
+      ]
+    },
+    {
+      "month": "March",
+      "days": [
+        {"date": "3", "name_hindi": "विश्व वन्यजीव दिवस", "name_english": "World Wildlife Day", "type": "International"},
+        {"date": "8", "name_hindi": "अंतर्राष्ट्रीय महिला दिवस", "name_english": "International Women's Day", "type": "International"},
+        {"date": "14", "name_hindi": "होली", "name_english": "Holi (Tentative Date)", "type": "National (India) Festival"},
+        {"date": "15", "name_hindi": "विश्व उपभोक्ता अधिकार दिवस", "name_english": "World Consumer Rights Day", "type": "International"},
+        {"date": "21", "name_hindi": "अंतर्राष्ट्रीय वन दिवस / विश्व कविता दिवस", "name_english": "International Day of Forests / World Poetry Day", "type": "International"},
+        {"date": "22", "name_hindi": "विश्व जल दिवस", "name_english": "World Water Day", "type": "International"},
+        {"date": "23", "name_hindi": "विश्व मौसम विज्ञान दिवस", "name_english": "World Meteorological Day", "type": "International"},
+        {"date": "24", "name_hindi": "विश्व क्षय रोग (टीबी) दिवस", "name_english": "World TB Day", "type": "International"}
+      ]
+    },
+    {
+      "month": "April",
+      "days": [
+        {"date": "2", "name_hindi": "विश्व ऑटिज्म जागरूकता दिवस", "name_english": "World Autism Awareness Day", "type": "International"},
+        {"date": "7", "name_hindi": "विश्व स्वास्थ्य दिवस", "name_english": "World Health Day", "type": "International (WHO)"},
+        {"date": "10", "name_hindi": "सिब्लिंग्स डे", "name_english": "Siblings Day", "type": "Cultural/Social"},
+        {"date": "14", "name_hindi": "अम्बेडकर जयंती", "name_english": "Ambedkar Jayanti", "type": "National (India)"},
+        {"date": "18", "name_hindi": "विश्व विरासत दिवस", "name_english": "World Heritage Day", "type": "International"},
+        {"date": "22", "name_hindi": "विश्व पृथ्वी दिवस", "name_english": "World Earth Day", "type": "International"},
+        {"date": "23", "name_hindi": "विश्व पुस्तक और कॉपीराइट दिवस", "name_english": "World Book and Copyright Day", "type": "International (UNESCO)"}
+      ]
+    },
+    {
+      "month": "May",
+      "days": [
+        {"date": "1", "name_hindi": "अंतर्राष्ट्रीय श्रम दिवस / मई दिवस", "name_english": "International Labour Day / May Day", "type": "International"},
+        {"date": "3", "name_hindi": "विश्व प्रेस स्वतंत्रता दिवस", "name_english": "World Press Freedom Day", "type": "International"},
+        {"date": "Second Sunday", "name_hindi": "मातृ दिवस (मदर्स डे)", "name_english": "Mother's Day", "type": "Cultural/Social"},
+        {"date": "8", "name_hindi": "विश्व रेड क्रॉस दिवस", "name_english": "World Red Cross Day", "type": "International"},
+        {"date": "12", "name_hindi": "बुद्ध पूर्णिमा / अंतर्राष्ट्रीय नर्स दिवस", "name_english": "Buddha Purnima / International Nurses Day", "type": "National/International"},
+        {"date": "31", "name_hindi": "विश्व तंबाकू निषेध दिवस", "name_english": "World No-Tobacco Day", "type": "International (WHO)"}
+      ]
+    },
+    {
+      "month": "June",
+      "days": [
+        {"date": "1", "name_hindi": "विश्व दुग्ध दिवस", "name_english": "World Milk Day", "type": "International"},
+        {"date": "5", "name_hindi": "विश्व पर्यावरण दिवस", "name_english": "World Environment Day", "type": "International"},
+        {"date": "14", "name_hindi": "विश्व रक्तदाता दिवस", "name_english": "World Blood Donor Day", "type": "International"},
+        {"date": "Third Sunday", "name_hindi": "पितृ दिवस (फादर्स डे)", "name_english": "Father's Day", "type": "Cultural/Social"},
+        {"date": "21", "name_hindi": "अंतर्राष्ट्रीय योग दिवस / विश्व संगीत दिवस", "name_english": "International Day of Yoga / World Music Day", "type": "International"},
+        {"date": "26", "name_hindi": "मादक पदार्थों के दुरुपयोग और अवैध तस्करी के खिलाफ अंतर्राष्ट्रीय दिवस", "name_english": "International Day against Drug Abuse and Illicit Trafficking", "type": "International"}
+      ]
+    },
+    {
+      "month": "July",
+      "days": [
+        {"date": "1", "name_hindi": "राष्ट्रीय चिकित्सक दिवस (भारत)", "name_english": "National Doctor’s Day (India)", "type": "National (India)"},
+        {"date": "11", "name_hindi": "विश्व जनसंख्या दिवस", "name_english": "World Population Day", "type": "International"},
+        {"date": "17", "name_hindi": "विश्व अंतर्राष्ट्रीय न्याय दिवस", "name_english": "World Day for International Justice", "type": "International"},
+        {"date": "28", "name_hindi": "विश्व हेपेटाइटिस दिवस", "name_english": "World Hepatitis Day", "type": "International"}
+      ]
+    },
+    {
+      "month": "August",
+      "days": [
+        {"date": "First Sunday", "name_hindi": "अंतर्राष्ट्रीय मैत्री दिवस (फ्रेंडशिप डे)", "name_english": "International Friendship Day", "type": "Cultural/Social"},
+        {"date": "6", "name_hindi": "हिरोशिमा दिवस", "name_english": "Hiroshima Day", "type": "International"},
+        {"date": "12", "name_hindi": "अंतर्राष्ट्रीय युवा दिवस", "name_english": "International Youth Day", "type": "International"},
+        {"date": "15", "name_hindi": "स्वतंत्रता दिवस", "name_english": "Independence Day", "type": "National (India)"},
+        {"date": "20", "name_hindi": "सद्भावना दिवस (राजीव गांधी जयंती)", "name_english": "Sadbhavana Diwas", "type": "National (India)"},
+        {"date": "29", "name_hindi": "राष्ट्रीय खेल दिवस (ध्यानचंद जयंती)", "name_english": "National Sports Day", "type": "National (India)"}
+      ]
+    },
+    {
+      "month": "September",
+      "days": [
+        {"date": "1-7", "name_hindi": "राष्ट्रीय पोषण सप्ताह", "name_english": "National Nutrition Week", "type": "National (India)"},
+        {"date": "5", "name_hindi": "शिक्षक दिवस (भारत)", "name_english": "Teachers' Day (India)", "type": "National (India)"},
+        {"date": "8", "name_hindi": "विश्व साक्षरता दिवस", "name_english": "World Literacy Day", "type": "International (UNESCO)"},
+        {"date": "14", "name_hindi": "हिंदी दिवस (भारत)", "name_english": "Hindi Diwas (India)", "type": "National (India)"},
+        {"date": "16", "name_hindi": "विश्व ओजोन दिवस", "name_english": "World Ozone Day", "type": "International"},
+        {"date": "21", "name_hindi": "अंतर्राष्ट्रीय शांति दिवस", "name_english": "International Day of Peace", "type": "International"},
+        {"date": "27", "name_hindi": "विश्व पर्यटन दिवस", "name_english": "World Tourism Day", "type": "International"}
+      ]
+    },
+    {
+      "month": "October",
+      "days": [
+        {"date": "1", "name_hindi": "अंतर्राष्ट्रीय वृद्धजन दिवस", "name_english": "International Day of Older Persons", "type": "International"},
+        {"date": "13", "name_hindi": "गांधी जयंती / अंतर्राष्ट्रीय अहिंसा दिवस", "name_english": "Gandhi Jayanti ", "type": "International/National"},
+        {"date": "4-10", "name_hindi": "विश्व अंतरिक्ष सप्ताह", "name_english": "World Space Week", "type": "International"},
+        {"date": "8", "name_hindi": "भारतीय वायु सेना दिवस", "name_english": "Indian Air Force Day", "type": "National (India)"},
+        {"date": "11", "name_hindi": "अंतर्राष्ट्रीय बालिका दिवस", "name_english": "International Day of the Girl Child", "type": "International"},
+        {"date": "15", "name_hindi": "विश्व छात्र दिवस (एपीजे अब्दुल कलाम जयंती)", "name_english": "World Students' Day", "type": "International/National"},
+        {"date": "16", "name_hindi": "विश्व खाद्य दिवस", "name_english": "World Food Day", "type": "International (FAO)"},
+        {"date": "24", "name_hindi": "संयुक्त राष्ट्र दिवस / विश्व विकास सूचना दिवस", "name_english": "United Nations Day / World Development Information Day", "type": "International"},
+        {"date": "18-23", "name_hindi": "दिवाली सप्ताह (धनतेरस, दिवाली, गोवर्धन पूजा, भाई दूज)", "name_english": "Diwali Week (Tentative Dates)", "type": "National (India) Festival"}
+      ]
+    },
+    {
+      "month": "November",
+      "days": [
+        {"date": "11", "name_hindi": "राष्ट्रीय शिक्षा दिवस (मौलाना आज़ाद जयंती)", "name_english": "National Education Day (Maulana Azad's Birthday)", "type": "National (India)"},
+        {"date": "14", "name_hindi": "बाल दिवस (नेहरू जयंती) / विश्व मधुमेह दिवस", "name_english": "Children's Day / World Diabetes Day", "type": "National/International"},
+        {"date": "19", "name_hindi": "अंतर्राष्ट्रीय पुरुष दिवस / विश्व शौचालय दिवस", "name_english": "International Men's Day / World Toilet Day", "type": "International"},
+        {"date": "26", "name_hindi": "संविधान दिवस / राष्ट्रीय दुग्ध दिवस", "name_english": "Constitution Day / National Milk Day", "type": "National (India)"}
+      ]
+    },
+    {
+      "month": "December",
+      "days": [
+        {"date": "1", "name_hindi": "विश्व एड्स दिवस", "name_english": "World AIDS Day", "type": "International"},
+        {"date": "3", "name_hindi": "विश्व विकलांगता दिवस", "name_english": "World Disability Day", "type": "International"},
+        {"date": "4", "name_hindi": "भारतीय नौसेना दिवस", "name_english": "Indian Navy Day", "type": "National (India)"},
+        {"date": "10", "name_hindi": "मानवाधिकार दिवस", "name_english": "Human Rights Day", "type": "International"},
+        {"date": "22", "name_hindi": "राष्ट्रीय गणित दिवस", "name_english": "National Mathematics Day", "type": "National (India)"},
+        {"date": "23", "name_hindi": "किसान दिवस (भारत)", "name_english": "Kisan Diwas (Farmer's Day)", "type": "National (India)"},
+        {"date": "25", "name_hindi": "क्रिसमस दिवस / सुशासन दिवस", "name_english": "Christmas Day / Good Governance Day", "type": "International/National"}
+      ]
+    }
+  ]
+}
