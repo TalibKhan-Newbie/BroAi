@@ -30,7 +30,7 @@ import MiniLoader from './miniloader';
 import TokenWalletModal from './MemberShip';
 const adUnitId = __DEV__
   ? TestIds.REWARDED_INTERSTITIAL
-  : 'ca-app-pub-9636036667573295/9336381576';
+  : 'ca-pub';
 
 const rewardedInterstitial = RewardedInterstitialAd.createForAdRequest(adUnitId, {
   keywords: [
@@ -42,7 +42,7 @@ const rewardedInterstitial = RewardedInterstitialAd.createForAdRequest(adUnitId,
 });
 const boosterAdUnitId = __DEV__
   ? TestIds.REWARDED_INTERSTITIAL
-  : 'ca-app-pub-9636036667573295/XXXXX'; // ⬅️ Replace with your BOOSTER ad unit
+  : 'ca-app-pub/XXXXX'; // ⬅️ Replace with your BOOSTER ad unit
 
 const boosterRewardedAd = RewardedInterstitialAd.createForAdRequest(boosterAdUnitId, {
   keywords: [
@@ -660,7 +660,7 @@ const SimpleMarkdownText = ({ text }) => {
 
 const loadUser = async () => {
   try {
-    const storedUser = await AsyncStorage.getItem('userData'); // ⬅️ 'user' ki jagah 'userData' use karo
+    const storedUser = await AsyncStorage.getItem('userData'); 
     if (storedUser) {
       const parsedUser = JSON.parse(storedUser);
       setUser(parsedUser);
@@ -946,27 +946,24 @@ const loadChatMessages = async (chatId) => {
     setSidebarOpen(false);
     navigation.navigate('ImageScreen');
   };
-  const AssignOpenScreen = () => {
-    setSidebarOpen(false);
-    navigation.navigate('Assignment');
-  };
+
   const getBroAIResponse = (userMessage) => {
     const lowerMessage = userMessage.toLowerCase();
     
     if (lowerMessage.includes('who are you') || lowerMessage.includes('what are you') || 
         lowerMessage.includes('your name') || lowerMessage.includes('about you') ||
         lowerMessage.includes('tell me about yourself')) {
-      return "I'm **BroAI**, an advanced AI assistant developed by **Rotara Labs**.";
+      return "I'm **BroAI**, an advanced AI assistant developed by **Talib Khan**.";
     }
     
     if (lowerMessage.includes('who made you') || lowerMessage.includes('who created you') ||
         lowerMessage.includes('developer') || lowerMessage.includes('creator')) {
-      return "I was developed by **Rotara Labs**. Our team has worked hard to create an AI assistant that can help users with a wide variety of tasks while maintaining high standards of accuracy and helpfulness.";
+      return "I was developed by **Talib Khan**. Our team has worked hard to create an AI assistant that can help users with a wide variety of tasks while maintaining high standards of accuracy and helpfulness.";
     }
     
     if (lowerMessage.includes('company') || lowerMessage.includes('rotara labs') ||
         lowerMessage.includes('organization')) {
-      return "I'm developed by **Rotara Labs**, a technology company focused on creating advanced AI solutions. Our team, is dedicated to building AI tools that are both powerful and accessible to users.";
+      return "I'm developed by **Talib Khan**, a technology company focused on creating advanced AI solutions. Our team, is dedicated to building AI tools that are both powerful and accessible to users.";
     }
     
     return null;
